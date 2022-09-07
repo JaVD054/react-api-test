@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Todos from './components/todos';
-import { ThemeProvider,Container } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
